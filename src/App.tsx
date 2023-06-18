@@ -6,7 +6,7 @@ import TailwindLogo from "./assets/images/TailwindLogo";
 function App() {
   return (
     <>
-      <main className="w-[80%] p-5 flex flex-col justify-center items-center">
+      <main className="w-[80%] max-w-lg p-5 flex flex-col justify-center items-center">
         <section className="mb-5 text-center">
           <h1 className="font-semibold text-lg sm:text-xlg">
             Vite: React & Tailwind
