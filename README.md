@@ -1,12 +1,15 @@
 <div align="center">
     <h1>Vite: React & Tailwind</h1>
-    <p> This proyect will provide a template to work with React and Tailwind using Vite. </p>
-    <a href="https://github.com/Jengrik/Jengrik-VueJS-and-Webpack-Basic-Setup">
-        <img width="520" height="163" src="documentation/Technologies.png">
-    </a>
-    <p align="right"><strong>Designed by: Jengrik</strong></p>
+    <p> This project will provide a template to work with React and Tailwind using Vite. </p>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="https://github.com/Jengrik/Jengrik-VueJS-and-Webpack-Basic-Setup">
+            <img width="auto" height="auto" src="documentation/Technologies.png">
+        </a>
+        <p style="margin-bottom: 0;">Github Page</p>
+        <a href="https://jengrik.github.io/vite-react-tailwind-basic-setup/">https://jengrik.github.io/vite-react-tailwind-basic-setup/</a>
+    </div>
+    <p align="right" style="margin-top: 30px;"><strong>Designed by: Jengrik</strong></p>
 </div>
-
 <br>
 <h2 align="center">Screenshot</h2>
 <div align="center">
