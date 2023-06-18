@@ -49,6 +49,13 @@ function App() {
           <p className="my-4">
             On the other hand, to know the code of this project, you can visit:
           </p>
+          <a
+            className="text-blue-700 my-4"
+            href="https://github.com/Jengrik/vite-react-tailwind-basic-setup"
+          >
+            https://github.com/Jengrik/vite-react-tailwind-basic-setup
+          </a>
+          <p className="text-right my-8">Designed by: Jhon Navarrete</p>
         </section>
       </main>
     </>
