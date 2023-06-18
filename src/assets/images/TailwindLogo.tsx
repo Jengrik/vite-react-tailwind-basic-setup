@@ -4,7 +4,11 @@ type Props = {
   className?: string;
 };
 
-const TailwindLogo = ({ width = 2500, height = 1504, className }: Props) => {
+const TailwindLogo = ({
+  width = "100%",
+  height = "100%",
+  className,
+}: Props) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"

@@ -4,7 +4,7 @@ type Props = {
   className?: string;
 };
 
-const ViteLogo = ({ width = 2490, height = 2500, className }: Props) => {
+const ViteLogo = ({ width = "100%", height = "100%", className }: Props) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"

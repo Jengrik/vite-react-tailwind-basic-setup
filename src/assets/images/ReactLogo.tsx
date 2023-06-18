@@ -1,16 +1,16 @@
 type Props = {
   width?: string | number;
   height?: string | number;
-  classname?: string;
+  className?: string;
 };
 
-const ReactLogo = ({ width = 35.93, height = 32, classname }: Props) => {
+const ReactLogo = ({ width = "100%", height = "100%", className }: Props) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       width={width}
       height={height}
-      className={classname ? classname : undefined}
+      className={className ? className : undefined}
       viewBox="0 0 256 228"
     >
       <path
